@@ -8,9 +8,9 @@ IMDb lets users rate movies on a scale from 1 to 10. To label these reviews the 
 
 The analysis is done with the help of **Neural Network**.
 
-## In the Network Building i use a
- • fully connected /dense layer with relu activation
- • 2 hidden layer with 16 neurons
- • 1 output layer with 1 neuron( sigmoid activation)
+## In the Network Building :-
+ 1) fully connected /dense layer with relu activation
+ 2) 2 hidden layer with 16 neurons
+ 3) 1 output layer with 1 neuron( sigmoid activation) is used.
  
 **By using above model i got 87 % accuracy on test set and 94 % accuracy on training set.**
